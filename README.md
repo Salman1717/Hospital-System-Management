@@ -3,6 +3,9 @@ An ERP system application developed using JAVA
 
 The Following are the UI Screenshots of the system:
 
+<img width="540" alt="Home" src="https://github.com/Salman1717/Hospital-System-Management/assets/109744132/6076549d-ffc1-4946-b16f-41af031e3f6b">
+
+
 <img width="540" alt="Home" src="https://github.com/Salman1717/Hospital-System-Management--master/assets/109744132/c0a574aa-dc42-4f9a-a2bd-7532cf1a4e80">
 
 <img width="535" alt="Login" src="https://github.com/Salman1717/Hospital-System-Management--master/assets/109744132/7b825e64-972a-4b23-b2e0-682668404c51">
