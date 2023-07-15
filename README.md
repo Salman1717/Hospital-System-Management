@@ -5,17 +5,14 @@ The Following are the UI Screenshots of the system:
 
 <img width="540" alt="Home" src="https://github.com/Salman1717/Hospital-System-Management/assets/109744132/6076549d-ffc1-4946-b16f-41af031e3f6b">
 
+<img width="535" alt="Login" src="https://github.com/Salman1717/Hospital-System-Management/assets/109744132/8004b39e-6899-4821-a99f-f94533dfc3bb">
 
-<img width="540" alt="Home" src="https://github.com/Salman1717/Hospital-System-Management--master/assets/109744132/c0a574aa-dc42-4f9a-a2bd-7532cf1a4e80">
+<img width="533" alt="Appointment" src="https://github.com/Salman1717/Hospital-System-Management/assets/109744132/df3b4c8d-b55c-4272-9023-3e23c521e407">
 
-<img width="535" alt="Login" src="https://github.com/Salman1717/Hospital-System-Management--master/assets/109744132/7b825e64-972a-4b23-b2e0-682668404c51">
+<img width="539" alt="Doctor" src="https://github.com/Salman1717/Hospital-System-Management/assets/109744132/0a301d95-a85c-4725-85eb-f3667f1ba3e5">
 
-<img width="533" alt="Appointment" src="https://github.com/Salman1717/Hospital-System-Management--master/assets/109744132/728e5890-1816-4381-a890-06c46332977d">
+<img width="539" alt="Patient" src="https://github.com/Salman1717/Hospital-System-Management/assets/109744132/ac005e13-6a8f-4060-963f-827aa33c4892">
 
-<img width="539" alt="Doctor" src="https://github.com/Salman1717/Hospital-System-Management--master/assets/109744132/d44600d2-c82d-4d12-b31b-24fd41d309d7">
+<img width="527" alt="Report" src="https://github.com/Salman1717/Hospital-System-Management/assets/109744132/131b4c87-7447-4860-bafa-7cae2145b5fb">
 
-<img width="539" alt="Patient" src="https://github.com/Salman1717/Hospital-System-Management--master/assets/109744132/863e9a53-4d77-47d5-a6df-14299e0c7bde">
-
-<img width="527" alt="Report" src="https://github.com/Salman1717/Hospital-System-Management--master/assets/109744132/b82ee59f-ef9a-4941-830d-fd90ef3ea317">
-
-<img width="536" alt="Payment" src="https://github.com/Salman1717/Hospital-System-Management--master/assets/109744132/c6196276-528f-4124-9d39-181c7bc64a88">
+<img width="536" alt="Payment" src="https://github.com/Salman1717/Hospital-System-Management/assets/109744132/40269a89-2c0c-4b57-81f5-2bc895a3aa2f">
